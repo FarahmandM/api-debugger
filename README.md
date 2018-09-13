@@ -1,2 +1,2 @@
 # api-debugger
-A platform for testing API's.
+A platform for debugging API's.

@@ -1,0 +1,29 @@
+{
+  "name": "api-debugger",
+  "version": "0.0.0",
+  "description": "A platform for debugging API's",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarahmandM/api-debugger.git"
+  },
+  "keywords": [
+    "API",
+    "API Debugger",
+    "Debug API",
+    "Debug",
+    "Bebug API",
+    "REST API",
+    "Debug REST API"
+  ],
+  "author": "Farahmand Moslemi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FarahmandM/api-debugger/issues"
+  },
+  "homepage": "https://github.com/FarahmandM/api-debugger#readme"
+}
