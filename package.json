@@ -1,6 +1,6 @@
 {
   "name": "api-debugger",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A platform for debugging API's",
   "main": "index.js",
   "scripts": {
